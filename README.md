@@ -30,19 +30,7 @@ The goal of this repository is to:
 
 ⁀➷Notes/ – Study notes, cheat sheets, and references.
 
-## 🚀 Topics Covered
 
-⁀➷Core Python syntax and data structures.
-
-⁀➷File handling and error handling.
-
-⁀➷Object-Oriented Programming (OOP).
-
-⁀➷Regular Expressions and Automation.
-
-⁀➷Working with APIs and external libraries.
-
-⁀➷Basic data analysis and visualization with Python.
 
 ## 🛠 How to Use This Repository
 
